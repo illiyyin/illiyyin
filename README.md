@@ -1,5 +1,5 @@
 ### Hi there, welcome to my github profile 👋
-[![Top Langs](https://github-stats.iyin.me/api/top-langs/?username=illiyyin&layout=compact)](https://github.com/illiyyin)
+[![Top Langs](https://github-stats.iyin.me/api/top-langs/?username=illiyyin&layout=compact&exclude_repo=sppd)](https://github.com/illiyyin)
 ![Iyin's GitHub stats](https://github-stats.iyin.me/api?username=illiyyin&show=prs_merged,prs_merged_percentage&include_all_commits=true&hide=stars,contribs&theme=gruvbox_light)
 <!--
 **illiyyin/illiyyin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
