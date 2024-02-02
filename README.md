@@ -1,6 +1,6 @@
 ### Hi there, welcome to my github profile 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=illiyyin&layout=compact)](https://github.com/illiyyin)
-![Iyin's GitHub stats](https://github-readme-stats.vercel.app/api?username=illiyyin&show_icons=true&theme=gruvbox_light&hide=stars,contribs)
+![Iyin's GitHub stats](https://github-readme-stats.vercel.app/api?username=illiyyin&show_icons=true&theme=gruvbox_light&hide=stars,contribs&include_all_commits=true)
 <!--
 **illiyyin/illiyyin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
